@@ -10,7 +10,7 @@
 }
 
 body{
-    background-color: #8FB3CB;
+    background-color: #efe9f7;
 }
 
 :root{
@@ -95,7 +95,7 @@ header{
     justify-content: center;
     align-items: center;
     padding: 0;
-    background-color: #8FB3CB;
+    /* background-color: #8FB3CB; */
 }
 
 .home img{
@@ -111,6 +111,7 @@ header{
 .home-title{
     font-size: 2.5rem;
     font-weight: 500;
+    color: black;
 }
 
 .home-subtitle{
@@ -144,15 +145,9 @@ header{
 }
 
 .gmail_resume span button:hover{
-    background-color: white;
+    background-color: #efe9f7;
     color: black;
     transition: all 0.5s;
-}
-
-.line{
-    color: black;
-    border: 2px solid black;
-    margin: 1rem 0;
 }
 
 .post-filter{
